@@ -1,0 +1,532 @@
+/*Created with Adobe RoboHelp 2019.*/
+BODY 
+/* Style Sheet created by ImportDoc 13.0 */ {
+	font-family: Arial;
+	background-color: #ffffff;
+}
+H1 {
+	font-weight: bold;
+	font-size: 18pt;
+	color: #008000;
+}
+LI.h1 {
+	font-weight: bold;
+	font-size: 18pt;
+	color: #008000;
+}
+LI.kadov-H1 {
+	font-weight: bold;
+	font-size: 18pt;
+	color: #008000;
+}
+H2 {
+	font-weight: bold;
+	font-size: 14pt;
+	color: g;
+}
+LI.h2 {
+	font-weight: bold;
+	font-size: 14pt;
+	color: g;
+}
+LI.kadov-H2 {
+	font-weight: bold;
+	font-size: 14pt;
+	color: g;
+}
+H3 {
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+LI.h3 {
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+LI.kadov-H3 {
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+H4 {
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+LI.h4 {
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+LI.kadov-H4 {
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+H5 {
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+LI.h5 {
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+LI.kadov-H5 {
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+H6 {
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+LI.h6 {
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+LI.kadov-H6 {
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+LI.kadov-P {
+	font-size: 8pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-autospace: none;
+	font-weight: bold;
+	font-style: normal;
+	font-family: Verdana, sans-serif;
+	color: #808080;
+	color: #000000;
+	font-family: Arial;
+	text-align: justify;
+	line-height: Normal;
+	font-style: normal;
+	font-weight: normal;
+	letter-spacing: normal;
+}
+OL {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+UL {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+LI.p-Index1 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CIndex1 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Index2 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CIndex2 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc1 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc1 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc2 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc2 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p.Toc3 {
+	margin-top: 0in;
+	margin-right: .5in;
+	margin-bottom: .0001pt;
+	margin-left: .5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc3 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc3 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p.Toc4 {
+	margin-top: 0in;
+	margin-right: .5in;
+	margin-bottom: .0001pt;
+	margin-left: .5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc4 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc4 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p.Toc5 {
+	margin-top: 0in;
+	margin-right: .5in;
+	margin-bottom: .0001pt;
+	margin-left: .5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc5 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc5 {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p.Toc6 {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: .0001pt;
+	margin-left: .5in;
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc6 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc6 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p.Toc7 {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: .0001pt;
+	margin-left: .5in;
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc7 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc7 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p.Toc8 {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: .0001pt;
+	margin-left: .5in;
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc8 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc8 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p.Toc9 {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: .0001pt;
+	margin-left: .5in;
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Toc9 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToc9 {
+	text-indent: -.5in;
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-FootnoteText {
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CFootnoteText {
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-Header {
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial, sans-serif;
+	color: #000000;
+	letter-spacing: normal;
+	text-decoration: underline;
+}
+LI.kadov-p-CHeader {
+	text-autospace: none;
+	font-size: 12.0pt;
+	color: #000000;
+	font-family: Arial;
+}
+LI.p-Footer {
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CFooter {
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-EndnoteText {
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CEndnoteText {
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-ToaHeading {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CToaHeading {
+	line-height: 12.0pt;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+P.Bullet {
+	text-indent: -;
+	margin-left: 8pt;
+	margin-top: 5pt;
+	margin-bottom: 14pt;
+	list-style: square;
+}
+LI.p-Bullet {
+	text-indent: -;
+	list-style: square;
+}
+LI.kadov-P-CBullet {
+	text-indent: -;
+	list-style: square;
+}
+p.Title {
+	margin: 0in;
+	margin-bottom: .0001pt;
+	text-autospace: none;
+	font-family: Arial, sans-serif;
+	margin-right: 10px;
+	font-weight: bold;
+	letter-spacing: 0pt;
+	font-size: 16pt;
+	font-style: italic;
+	text-align: left;
+}
+LI.p-Title {
+	text-align: center;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	letter-spacing: 0pt;
+}
+LI.kadov-p-CTitle {
+	text-align: center;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+	font-weight: bold;
+}
+p.BodyText {
+	margin: 0in;
+	margin-bottom: .0001pt;
+	text-align: justify;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-BodyText {
+	text-align: justify;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CBodyText {
+	text-align: justify;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-BodyTextIndent {
+	text-align: justify;
+	text-indent: -.5in;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CBodyTextIndent {
+	text-align: justify;
+	text-indent: -.5in;
+	text-autospace: none;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p.BlockText {
+	margin-top: 0in;
+	margin-right: .5in;
+	margin-bottom: .0001pt;
+	margin-left: .5in;
+	text-indent: -.25in;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.p-BlockText {
+	text-indent: -.25in;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+LI.kadov-p-CBlockText {
+	text-indent: -.25in;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+p {
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	color: #000000;
+	margin-right: 10px;
+	text-align: justify;
+	line-height: Normal;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12pt;
+	font-family: Arial, sans-serif;
+	margin-left: 0px;
+	letter-spacing: normal;
+	text-decoration: none;
+}
+LI.p {
+	color: #000000;
+	text-align: justify;
+	line-height: Normal;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12pt;
+	letter-spacing: normal;
+	font-family: Arial, sans-serif;
+}
+A:active {
+	text-decoration: none;
+}
+A:link {
+	text-decoration: none;
+}
+A:visited {
+	color: #0000ff;
+	text-decoration: none;
+}
+A:hover {
+	color: #ff0000;
+}
+P.FileHeader {
+	text-align: Right;
+	font-style: normal;
+	margin-left: 0in;
+	margin-right: 86px;
+	font-weight: bold;
+	letter-spacing: normal;
+	font-family: Arial, sans-serif;
+}
+LI.p-FileHeader {
+	text-align: Right;
+	font-style: normal;
+	font-weight: bold;
+	letter-spacing: normal;
+	font-family: Arial, sans-serif;
+}
