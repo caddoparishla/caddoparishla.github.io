@@ -1589,14 +1589,15 @@ function NonIEPopup_HandleClick(e)
 	}
 
 	// Close the popup window
-	if(e.target.href)
+	var href = decodeURI(e.target.href);
+	if(href)
 	{
-		if(e.target.href.indexOf("javascript:")==-1) 
+		if(href.indexOf("javascript:")==-1) 
 		{
 			if (e.target.target=="")
-				window.location.href = e.target.href;
+				window.location.href = encodeURI(href);
 			else
-				window.open(e.target.href, e.target.target);
+				window.open(href, e.target.target);
 			this.close();
 		}
 	} 
